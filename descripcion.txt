@@ -15,4 +15,7 @@ aquí se hizo el ejemplo de colocar una imagen con la
 etiqueta img, se creo un nuevo html para esta clase,
 las imagenes se redujeron de tamaño con tinypng
 
+se agrego un ejemplo de fig y figcaption para la etiqueta
+img.
+
 *Para toda la info del curso vease https://docs.google.com/document/d/1pFTKpsUdzUukmTTJvVXzgRT9unBR4eknshEFYQi0h6g/edit*
