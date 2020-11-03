@@ -12,7 +12,7 @@ con etiquetas especificas para poner a prueba lo aprendido
 y se agrega un enlace a uno de los elementos de la lista
 
 aquí se hizo el ejemplo de colocar una imagen con la 
-etiqueta img colocandole un nombre y su url, las imagenes
-se redujeron de tamaño con tinypng
+etiqueta img, se creo un nuevo html para esta clase,
+las imagenes se redujeron de tamaño con tinypng
 
 *Para toda la info del curso vease https://docs.google.com/document/d/1pFTKpsUdzUukmTTJvVXzgRT9unBR4eknshEFYQi0h6g/edit*
