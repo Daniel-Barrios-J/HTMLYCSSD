@@ -2,3 +2,9 @@ en esta primera parte vimos todas las etiquetas
 adicionales dentro de la etiqueta head
 en el head va todo lo necesario para que funcione
 nuestra pagina y que no es visible para el usuario
+
+en esta parte se agregan las etiquetas de contenido
+y contenedoras dentro del body para entender su basico
+funcionamiento
+
+*Para toda la info del curso vease https://docs.google.com/document/d/1pFTKpsUdzUukmTTJvVXzgRT9unBR4eknshEFYQi0h6g/edit*
