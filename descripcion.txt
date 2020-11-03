@@ -1,0 +1,4 @@
+en esta primera parte vimos todas las etiquetas
+adicionales dentro de la etiqueta head
+en el head va todo lo necesario para que funcione
+nuestra pagina y que no es visible para el usuario
