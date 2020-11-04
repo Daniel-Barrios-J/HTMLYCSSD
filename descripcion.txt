@@ -30,4 +30,7 @@ clase y ejemplo de formularios
 se agrega la clase de calendarios y utilizamos comentarios
 en el codigo
 
+se realizo la practica de autocomplete y required.
+
+
 *Para toda la info del curso vease https://docs.google.com/document/d/1pFTKpsUdzUukmTTJvVXzgRT9unBR4eknshEFYQi0h6g/edit*
