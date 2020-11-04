@@ -1,0 +1,14 @@
+/* añadiendo estilo por elemento */
+p {
+    color: blue;
+    font-size: 45px;
+}
+/* añadiendo estilo por class */
+.parrafo {
+    color: red;
+}
+/* añadiendo estilo por ID */
+#texto {
+    color: yellow;
+    font-size: 24px;
+}
