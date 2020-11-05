@@ -34,6 +34,8 @@ h1 {
     text-decoration: none;
 }
 #main-nav .blog {
+    /* background-color: red !important; esta linea es para
+    la prueba del importan */
     background-color: red;
     /* este color no se aplica debido a que la etiqueta "a"
     con class .blog tiene un estilo embebido de
